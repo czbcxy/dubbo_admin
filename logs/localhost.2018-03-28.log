@@ -1,0 +1,32 @@
+Mar 28, 2018 9:12:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Mar 28, 2018 9:12:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing log4j system
+Mar 28, 2018 9:12:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Mar 28, 2018 9:12:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: sysmanage
+Mar 28, 2018 9:12:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: sysinfo
+Mar 28, 2018 9:12:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: personal
+Mar 28, 2018 9:12:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: governance
+Mar 28, 2018 9:12:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring sub WebApplicationContext: home
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: WebxComponents: initialization completed
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: webx
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: WebxFrameworkFilter - webx: initialization completed
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing filter: mdc
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: SetLoggingContextFilter - mdc: initialization completed
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Mar 28, 2018 9:12:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@79fac901')
